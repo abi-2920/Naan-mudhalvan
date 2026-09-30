@@ -1,2 +1,3 @@
-gooogle-generativeai
+streamlit
+google-generativeai
 python-docx
